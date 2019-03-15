@@ -1,0 +1,15 @@
+header, main, footer{
+	display: block;
+}
+body{
+	width: 1440px;
+	margin: 0px auto;
+	padding: 0px;
+	background-color: #eeeeee;
+}
+.banner{
+	text-align: center;
+	/*background-color: #003344;*/
+	color: black;
+	padding: 10px;
+}
